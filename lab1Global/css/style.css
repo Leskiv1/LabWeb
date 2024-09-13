@@ -510,6 +510,7 @@ flex-shrink: 0;
   align-items: center;
   justify-content: center; 
   gap: 20px;
+  padding-bottom: 50px;
   .end-text{
     width: 72.078px;
     height: 20.542px;
